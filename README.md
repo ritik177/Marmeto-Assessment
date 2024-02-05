@@ -8,7 +8,7 @@ This project is a frontend implementation for a product detail page based on dat
 <h4>style.css:</h4>External stylesheet for styling the product detail page.
 <h4>script.js:</h4>JavaScript file for fetching data, updating UI elements, and handling user interactions.
 <h3>Usage</h3>
-Clone the repository: git clone <repository-url>
+<h4>Clone the repository:<h4> git clone https://github.com/ritik177/Marmeto-Assessment.git
 Open index.html in your web browser to view the product detail page.
 Explore the dynamic updates based on the Shopify API data.
 Interact with color and size options, and observe the responsive "Add to Cart" message.
